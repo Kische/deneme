@@ -1,0 +1,11 @@
+C:\Users\Baybora\Desktop\Konsol Uygulaması\obj\Debug\netcoreapp3.1\Konsol Uygulaması.csprojAssemblyReference.cache
+C:\Users\Baybora\Desktop\Konsol Uygulaması\obj\Debug\netcoreapp3.1\Konsol Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Baybora\Desktop\Konsol Uygulaması\obj\Debug\netcoreapp3.1\Konsol Uygulaması.AssemblyInfo.cs
+C:\Users\Baybora\Desktop\Konsol Uygulaması\bin\Debug\netcoreapp3.1\Konsol Uygulaması.exe
+C:\Users\Baybora\Desktop\Konsol Uygulaması\bin\Debug\netcoreapp3.1\Konsol Uygulaması.deps.json
+C:\Users\Baybora\Desktop\Konsol Uygulaması\bin\Debug\netcoreapp3.1\Konsol Uygulaması.runtimeconfig.json
+C:\Users\Baybora\Desktop\Konsol Uygulaması\bin\Debug\netcoreapp3.1\Konsol Uygulaması.runtimeconfig.dev.json
+C:\Users\Baybora\Desktop\Konsol Uygulaması\bin\Debug\netcoreapp3.1\Konsol Uygulaması.dll
+C:\Users\Baybora\Desktop\Konsol Uygulaması\bin\Debug\netcoreapp3.1\Konsol Uygulaması.pdb
+C:\Users\Baybora\Desktop\Konsol Uygulaması\obj\Debug\netcoreapp3.1\Konsol Uygulaması.dll
+C:\Users\Baybora\Desktop\Konsol Uygulaması\obj\Debug\netcoreapp3.1\Konsol Uygulaması.pdb
